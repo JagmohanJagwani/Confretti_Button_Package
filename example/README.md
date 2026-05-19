@@ -42,7 +42,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  confetti_button: ^1.0.1
+  confetti_button: ^1.0.0
 ```
 
 Run:

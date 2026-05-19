@@ -4,15 +4,14 @@ A beautiful and reusable Flutter button with a custom bubble explosion animation
 
 ---
 
-👥 Group Members
-Section: BSSE-6D
-Jagmohan Dass (2380232)
-Saad Ahsan (2380278)
-Abdul Wahid (2380222)
-Muhammad Khizer (2380279)
+## 👥 Group Members
+- Section: BSSE-6D
+- Jagmohan Dass (2380232)
+- Saad Ahsan (2380278)
+- Abdul Wahid (2380222)
+- Muhammad Khizer (2380279)
 
 ---
-
 ## ✨ Features
 
 - 🎈 Bubble explosion animation
